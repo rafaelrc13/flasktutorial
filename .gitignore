@@ -1,0 +1,5 @@
+# virtualenv folder
+flask/
+
+# Project extensions
+*.sublime-workspace
